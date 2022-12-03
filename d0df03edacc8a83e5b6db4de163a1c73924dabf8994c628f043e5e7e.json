@@ -1,0 +1,23 @@
+{
+    "subject": "d0df03edacc8a83e5b6db4de163a1c73924dabf8994c628f043e5e7e",
+    "name": {
+        "sequenceNumber": 0,
+        "value": "token_metadata",
+        "signatures": [
+            {
+                "signature": "91386372580e903e3df6165d7409172775caabe916dd0e257e2a61dcd6d282ace9030dce7a08ace7ed2b267685a6944ccc9ffc6b0daf439891589757e582c10e",
+                "publicKey": "a747da5eafe750a11d8239d5287adffd394c15481fd517283be220334e0a2d68"
+            }
+        ]
+    },
+    "description": {
+        "sequenceNumber": 0,
+        "value": "d0df03edacc8a83e5b6db4de163a1c73924dabf8994c628f043e5e7e generated at 2022-12-03 02:51:57 UTC",
+        "signatures": [
+            {
+                "signature": "7e91e3ade9bbb6cd692662e7c946ab9ccf52ddbbcd9e7917d084a731aa779f9c6ea87df36fa79b86be98bffeee4889709cf33bab3321dc9549d02ccfcf832f0a",
+                "publicKey": "a747da5eafe750a11d8239d5287adffd394c15481fd517283be220334e0a2d68"
+            }
+        ]
+    }
+}
