@@ -12,10 +12,10 @@
     },
     "description": {
         "sequenceNumber": 0,
-        "value": "d0df03edacc8a83e5b6db4de163a1c73924dabf8994c628f043e5e7e generated at 2022-12-03 03:30:37 UTC",
+        "value": "d0df03edacc8a83e5b6db4de163a1c73924dabf8994c628f043e5e7e generated at 2022-12-03 03:35:01 UTC",
         "signatures": [
             {
-                "signature": "14f007da2b88b2f30809e200a329f4b2713dc42c5bc8cdcacc228e8fc430d40260d08d3df48473ae87bf43377f20737a57cdfc9e63ac8b20ffde61fea282d502",
+                "signature": "1997cf0af5521da03c5f7484c2449beb5bef5490023663bc1044929ba04a20c15e2368d3173148f2ed1208920a58c538725b35ef9f4b42f16c6aae081103d005",
                 "publicKey": "a747da5eafe750a11d8239d5287adffd394c15481fd517283be220334e0a2d68"
             }
         ]
